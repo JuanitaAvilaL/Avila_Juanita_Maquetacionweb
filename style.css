@@ -27,3 +27,13 @@ text-align: right;
     height: 100%;
     width: 100%;
 }
+.footer .menu a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.footer {
+    margin-top: 40px;
+    padding-top: 40px;
+    background: #1d2124;
+}
